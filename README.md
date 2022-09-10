@@ -10,14 +10,6 @@
 </item> 
 *************************************
 
-<item>
-<title>[COLOR silver][B] Punky, a Levada da Breca  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AB4354CDDDBEFEF1C96B78208C92B48F0699E712$nome=Punky T1</link>
-<thumbnail>https://baixakifilmes.net/uploads/12/684615666630f7a5f26c98.jpg</thumbnail>
-<fanart></fanart>
-<info>Punky Brewster é uma garota engraçada e bem humorada, abandonada por seus pais. O pai de Punky deixou a família quando ela tinha dois anos, e anos mais tarde, foi abandonada por sua mãe que a levou até um supermercado em Chicago e desapareceu. Punky então fica sozinha, apenas com a companhia do seu cão Pinky. Logo depois, ela descobre um apartamento vago em um prédio local e passa a viver lá. O prédio era gerenciado pelo fotógrafo Arthur Bicudo, um senhor viúvo. Punky rapidamente se torna amiga de Cátia, uma garota que vive no andar acima do apartamento de Arthur, e sua avó Luíza. Quando Arthur descobre Punky no apartamento vazio adjacente ao seu, ele ouve a história da garota e se emociona, se tornando como um pai para a garota, </info>
-</item> 
-*************************************
 
 <item>
 <title>[COLOR silver][B] A Família Dinossauros [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
